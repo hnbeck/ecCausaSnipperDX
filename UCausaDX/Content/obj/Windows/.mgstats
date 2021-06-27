@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Dev/workspace/UCausaDX/UCausaDX/Content/background.png","C:/Dev/workspace/UCausaDX/UCausaDX/Content/bin/Windows/background.xnb","TextureProcessor","Texture2DContent",683319,4000085,0,2346785
+"C:/Dev/workspace/UCausaDX/UCausaDX/Content/File.spritefont","C:/Dev/workspace/UCausaDX/UCausaDX/Content/bin/Windows/Symbol.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0,104481
+"C:/Dev/workspace/UCausaDX/UCausaDX/Content/goal.png","C:/Dev/workspace/UCausaDX/UCausaDX/Content/bin/Windows/goal.xnb","TextureProcessor","Texture2DContent",4219,60085,0,0038893
+"C:/Dev/workspace/UCausaDX/UCausaDX/Content/solution.png","C:/Dev/workspace/UCausaDX/UCausaDX/Content/bin/Windows/solution.xnb","TextureProcessor","Texture2DContent",6402,81285,0,0050407
+"C:/Dev/workspace/UCausaDX/UCausaDX/Content/strategy.png","C:/Dev/workspace/UCausaDX/UCausaDX/Content/bin/Windows/strategy.xnb","TextureProcessor","Texture2DContent",8611,65605,0,0054878
